@@ -79,4 +79,4 @@ while left <= right:
 
 step1: mid = (0+len(list)-1)/2 = 3， compare(list[0],list[mid])和compare(list[mid],list[6])，确定无序范围
 
-step2: 然后以mid为边界拆分为两组，继续重复step1
+step2: 然后以mid为边界，继续重复step1
